@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.github.omadahealth.lollipin.lib">
+    package="com.cloutify.lib">
 
     <uses-permission android:name="android.permission.USE_FINGERPRINT" />
 
